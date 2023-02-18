@@ -6,7 +6,9 @@
 
 ![WagnerOC GitHub stats](https://github-readme-stats.vercel.app/api?username=WagnerOC&show_icons=true&theme=highcontrast)
 
-### <p style="color:lightblue;font-size:16px;font-weight:600">💻 Technologies I use in my daily life❕ :</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerOC)](https://github.com/anuraghazra/github-readme-stats)
+
+### <p style="color:lightblue;font-size:16px;font-weight:600">💻 Technologies I'm learning❕ :</p>
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
@@ -15,7 +17,7 @@
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  />
 </div><br>
 
-### <p style="color:lightblue;font-size:16px;font-weight:600">💡 FullStack development student, passionate about technologies and innovations, studies and research, evolving every day in search of practical knowledge!
+### <p style="color:lightblue;font-size:16px;font-weight:600">FullStack development student, passionate about technologies and innovations, studies and research, evolving every day in search of practical knowledge!
 </p>
 
 <h2>Contatos:</h2>
