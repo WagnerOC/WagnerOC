@@ -5,7 +5,7 @@
 [![Blog](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/wagneroliveira9819/overview)
 <!-- STATUS COM O N DE CONTRIBUIÇÕES AS LINGUAGENS DE PROGRAMAÇÃO-->
 ![WagnerOC GitHub stats](https://github-readme-stats.vercel.app/api?username=WagnerOC&show_icons=true&theme=highcontrast)
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerOC&layout=compact&langs_count=16&theme=highcontrast"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerOC&layout=compact&langs_count=16&theme=highcontrast"/>
 
 ### <p style="color:lightblue;font-size:16px;font-weight:600">💻 Technologies I'm learning❕ :</p>
 
