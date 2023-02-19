@@ -32,5 +32,5 @@
 [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagneroliveira9819@gmail.com?subject=Questions)
 
 
-![snake gif](https://github.com/WagnerOC/WagnerOC/blob/output/github-contribution-grid-snake-svg)
+WagnerOC/snk/svg-only@v2
 
