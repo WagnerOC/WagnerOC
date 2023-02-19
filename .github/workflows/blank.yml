@@ -29,6 +29,7 @@ jobs:
 
       - run: git status
 
+
       # Para as atualizações.
       - name: Push changes
         uses: ad-m/github-push-action@master
