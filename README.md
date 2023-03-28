@@ -15,6 +15,21 @@
 <br>
 <br>
 
+<!-- Gráfico Contribuições --> 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wagneroc&bg_color=0d1117&color=87CEFA&line=FF0000&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Troféus -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wagneroc&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<!-- Cobrinha -->
+<div align="center">
+
+  ![Snake animation](https://github.com/wagneroc/wagneroc/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 <!-- Skills -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster=700&size=22&duration=8000&pause=2000&color=87CEFA&width=1000&lines=+💻Technologies+I'm+learning:)
 ](https://git.io/typing-svg)
@@ -30,22 +45,6 @@
   <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 <br> 
-<br>
-
-<!-- Gráfico Contribuições --> 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wagneroc&bg_color=0d1117&color=87CEFA&line=FF0000&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- Troféus -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wagneroc&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<!-- Cobrinha -->
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>                                                                                                                                     
                                                                                                                                      
 
 <!-- Visitantes na Página -->
